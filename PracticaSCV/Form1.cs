@@ -29,7 +29,7 @@ namespace PracticaSCV
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            tListaSocios.Text = tNombre.Text + " " + tApellidos.Text + " " + tTelefono.Text;
         }
 
         private void tNombre_TextChanged(object sender, EventArgs e)
