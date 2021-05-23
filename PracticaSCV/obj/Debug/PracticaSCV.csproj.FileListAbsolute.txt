@@ -1,0 +1,10 @@
+C:\Users\aitor_000\Source\Repos\PracticaSCV\PracticaSCV\bin\Debug\PracticaSCV.exe.config
+C:\Users\aitor_000\Source\Repos\PracticaSCV\PracticaSCV\bin\Debug\PracticaSCV.exe
+C:\Users\aitor_000\Source\Repos\PracticaSCV\PracticaSCV\bin\Debug\PracticaSCV.pdb
+C:\Users\aitor_000\Source\Repos\PracticaSCV\PracticaSCV\obj\Debug\PracticaSCV.csprojAssemblyReference.cache
+C:\Users\aitor_000\Source\Repos\PracticaSCV\PracticaSCV\obj\Debug\PracticaSCV.Form1.resources
+C:\Users\aitor_000\Source\Repos\PracticaSCV\PracticaSCV\obj\Debug\PracticaSCV.Properties.Resources.resources
+C:\Users\aitor_000\Source\Repos\PracticaSCV\PracticaSCV\obj\Debug\PracticaSCV.csproj.GenerateResource.cache
+C:\Users\aitor_000\Source\Repos\PracticaSCV\PracticaSCV\obj\Debug\PracticaSCV.csproj.CoreCompileInputs.cache
+C:\Users\aitor_000\Source\Repos\PracticaSCV\PracticaSCV\obj\Debug\PracticaSCV.exe
+C:\Users\aitor_000\Source\Repos\PracticaSCV\PracticaSCV\obj\Debug\PracticaSCV.pdb
